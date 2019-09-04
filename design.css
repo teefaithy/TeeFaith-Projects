@@ -78,6 +78,9 @@ form{
     margin-bottom: 10vh;
 }
 
+#contactme{
+	width:40%
+}
 a{
     text-decoration: none;
     cursor: pointer;
